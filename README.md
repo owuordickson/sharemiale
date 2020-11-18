@@ -1,6 +1,6 @@
 # sharemiale: share the light of God
 
-## Projects
+### Projects
 
 * web application (complete)
 * web plugin tool (ongoing)
